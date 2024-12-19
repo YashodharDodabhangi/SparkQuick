@@ -51,4 +51,4 @@
 - **Configuration Management:** Flexible configuration management system to customize library behavior based on your environment.
 
 ## Installation
-Not yet published,However it can be dowloaded and utiled as your needs
+Not yet published and still in the development phase anyone can contribute to it .
